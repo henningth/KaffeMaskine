@@ -9,3 +9,5 @@ Eksemplerne er med stigende sværhedsgrad, hvortil mere funktionalitet bliver in
 - ```kaffeMaskine_EnKop_KorrektValg_WhileIfElse.py```: Brugeren kan vælge styrke, kaffetype og størrelse af en kop som input, programmet beder gentagne gange om input indtil brugeren indtaster et gyldigt input.
 
 - ```kaffeMaskine_EnKop_KorrektValg_Funktion.py```: Brugeren kan vælge styrke, kaffetype og størrelse af en kop som input, programmet beder gentagne gange om input indtil brugeren indtaster et gyldigt input. Noget af funktionaliteten er samlet i en funktion.
+
+- ```kaffeMaskine_EnKop_KorrektValg_Begge_Funktioner.py```: Samme som ```kaffeMaskine_EnKop_KorrektValg_Funktion.py```, men mere af koden er indkapslet i funktioner.
